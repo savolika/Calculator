@@ -20,6 +20,7 @@ Choose an operation:
 2. Subtraction
 3. Multiplication
 4. Division
+
 Enter the number of the operation (1/2/3/4): 1
 Enter the first number: 5
 Enter the second number: 3

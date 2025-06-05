@@ -21,7 +21,7 @@ elif choice == "3":
     print("Result:", result)
 elif choice == "4":
     if num2 == 0:
-        print("Error: cannot devide by zero")
+        print("Error: cannot divide by zero")
     else:
         result = num1 / num2
         print("Result:", result)
