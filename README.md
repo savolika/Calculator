@@ -21,7 +21,7 @@ Choose an operation:
 3. Multiplication
 4. Division
 
-Enter the number of the operation (1/2/3/4): 1
-Enter the first number: 5
-Enter the second number: 3
+Enter the number of the operation (1/2/3/4): 1 
+Enter the first number: 5 
+Enter the second number: 3 
 Result: 8.0
